@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ieseebequu.natehill.net/sitemap.xml
